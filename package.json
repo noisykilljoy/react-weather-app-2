@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "react-open-weather-icons": "^0.1.1"
+  }
+}
